@@ -1,0 +1,26 @@
+﻿--- SCORES ---
+Performance: 92
+Accessibility: 96
+Best Practices: 96
+SEO: 100
+
+--- PERFORMANCE METRICS ---
+First Contentful Paint: 1.0┬ás (Score: 100)
+Largest Contentful Paint: 3.1┬ás (Score: 76)
+Total Blocking Time: 40┬áms (Score: 100)
+Cumulative Layout Shift: 0 (Score: 100)
+Speed Index: 3.8┬ás (Score: 83)
+
+--- TOP OPPORTUNITIES ---
+- Eliminate render-blocking resources: Est savings of 0┬áms
+  Url: http://localhost:3003/_next/static/chunks/72794b604c6ebc12.c...
+- Reduce unused JavaScript: Est savings of 28┬áKiB
+  Url: http://localhost:3003/_next/static/chunks/0987e5a35484a814.j...
+- Avoid serving legacy JavaScript to modern browsers: Est savings of 13┬áKiB
+  Url: http://localhost:3003/_next/static/chunks/0987e5a35484a814.j...
+
+--- DIAGNOSTICS ---
+- Browser errors were logged to the console: 
+- Background and foreground colors do not have a sufficient contrast ratio.: 
+- Legacy JavaScript: Est savings of 13┬áKiB
+- Render blocking requests: Est savings of 30┬áms

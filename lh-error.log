@@ -1,0 +1,1483 @@
+﻿node.exe : 
+2026-03-02T12:03:01.371Z 
+LH:ChromeLauncher Waiting 
+for browser.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Users\ABHINAND 
+C\AppData\Roa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (202  
+  6-03-02T12:0...ng for    
+ browser.:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+2026-03-02T12:03:01.373Z 
+LH:ChromeLauncher Waiting 
+for browser...
+2026-03-02T12:03:01.883Z 
+LH:ChromeLauncher Waiting 
+for browser.....
+2026-03-02T12:03:01.885Z 
+LH:ChromeLauncher Waiting 
+for 
+browser.....[32mΓêÜ[0m
+2026-03-02T12:03:02.645Z 
+LH:status Connecting to 
+browser
+2026-03-02T12:03:02.655Z 
+LH:status Navigating to 
+about:blank
+2026-03-02T12:03:02.662Z 
+LH:status Benchmarking 
+machine
+2026-03-02T12:03:03.669Z 
+LH:status Host device 
+pixel ratio
+2026-03-02T12:03:03.672Z 
+LH:status Preparing target 
+for navigation mode
+2026-03-02T12:03:03.704Z 
+LH:status Cleaning origin 
+data
+2026-03-02T12:03:03.723Z 
+LH:status Cleaning browser 
+cache
+2026-03-02T12:03:03.789Z 
+LH:status Preparing 
+network conditions
+2026-03-02T12:03:03.844Z 
+LH:status Navigating to 
+http://localhost:3004/
+2026-03-02T12:03:11.941Z 
+LH:Navigation:error 
+Provided URL 
+(http://localhost:3004/) 
+did not match initial 
+navigation URL (chrome-erro
+r://chromewebdata/)
+2026-03-02T12:03:12.479Z 
+LH:NavigationRunner:error 
+Chrome prevented page load 
+with an interstitial. Make 
+sure you are testing the 
+correct URL and that the 
+server is properly 
+responding to all 
+requests. 
+http://localhost:3004/
+2026-03-02T12:03:12.513Z 
+LH:status Analyzing and 
+running audits...
+2026-03-02T12:03:12.516Z 
+LH:status Auditing: Uses 
+HTTPS
+2026-03-02T12:03:12.518Z 
+LH:is-on-https:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.524Z 
+LH:status Auditing: 
+Redirects HTTP traffic to 
+HTTPS
+2026-03-02T12:03:12.525Z 
+LH:redirects-http:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.527Z 
+LH:status Auditing: Has a 
+`<meta name="viewport">` 
+tag with `width` or 
+`initial-scale`
+2026-03-02T12:03:12.527Z 
+LH:viewport:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.529Z 
+LH:status Auditing: First 
+Contentful Paint
+2026-03-02T12:03:12.529Z LH
+:first-contentful-paint:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.535Z 
+LH:status Auditing: 
+Largest Contentful Paint
+2026-03-02T12:03:12.536Z LH
+:largest-contentful-paint:w
+arn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.538Z 
+LH:status Auditing: First 
+Meaningful Paint
+2026-03-02T12:03:12.538Z LH
+:first-meaningful-paint:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.539Z 
+LH:status Auditing: Speed 
+Index
+2026-03-02T12:03:12.540Z 
+LH:speed-index:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.541Z 
+LH:status Auditing: 
+Screenshot Thumbnails
+2026-03-02T12:03:12.541Z LH
+:screenshot-thumbnails:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.541Z 
+LH:status Auditing: Final 
+Screenshot
+2026-03-02T12:03:12.541Z 
+LH:final-screenshot:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.543Z 
+LH:status Auditing: Total 
+Blocking Time
+2026-03-02T12:03:12.543Z LH
+:total-blocking-time:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.545Z 
+LH:status Auditing: Max 
+Potential First Input Delay
+2026-03-02T12:03:12.545Z 
+LH:max-potential-fid:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.547Z 
+LH:status Auditing: 
+Cumulative Layout Shift
+2026-03-02T12:03:12.548Z LH
+:cumulative-layout-shift:wa
+rn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.551Z 
+LH:status Auditing: No 
+browser errors logged to 
+the console
+2026-03-02T12:03:12.551Z 
+LH:errors-in-console:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.553Z 
+LH:status Auditing: 
+Initial server response 
+time was short
+2026-03-02T12:03:12.553Z LH
+:server-response-time:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.555Z 
+LH:status Auditing: Time 
+to Interactive
+2026-03-02T12:03:12.556Z 
+LH:interactive:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.558Z 
+LH:status Auditing: User 
+Timing marks and measures
+2026-03-02T12:03:12.559Z 
+LH:user-timings:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.561Z 
+LH:status Auditing: Avoid 
+chaining critical requests
+2026-03-02T12:03:12.561Z LH
+:critical-request-chains:wa
+rn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.571Z 
+LH:status Auditing: Avoid 
+multiple page redirects
+2026-03-02T12:03:12.571Z 
+LH:redirects:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.573Z 
+LH:status Auditing: 
+Displays images with 
+correct aspect ratio
+2026-03-02T12:03:12.573Z 
+LH:image-aspect-ratio:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.575Z 
+LH:status Auditing: Serves 
+images with appropriate 
+resolution
+2026-03-02T12:03:12.575Z LH
+:image-size-responsive:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.578Z 
+LH:status Auditing: Avoids 
+deprecated APIs
+2026-03-02T12:03:12.578Z 
+LH:deprecations:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.580Z 
+LH:status Auditing: Avoids 
+third-party cookies
+2026-03-02T12:03:12.580Z LH
+:third-party-cookies:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.584Z 
+LH:status Auditing: 
+Minimizes main-thread work
+2026-03-02T12:03:12.585Z LH
+:mainthread-work-breakdown:
+warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.586Z 
+LH:status Auditing: 
+JavaScript execution time
+2026-03-02T12:03:12.587Z 
+LH:bootup-time:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.588Z 
+LH:status Auditing: 
+Preconnect to required 
+origins
+2026-03-02T12:03:12.589Z LH
+:uses-rel-preconnect:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.590Z 
+LH:status Auditing: All 
+text remains visible 
+during webfont loads
+2026-03-02T12:03:12.590Z 
+LH:font-display:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.592Z 
+LH:status Auditing: 
+Diagnostics
+2026-03-02T12:03:12.592Z 
+LH:diagnostics:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.592Z 
+LH:status Auditing: 
+Network Requests
+2026-03-02T12:03:12.593Z 
+LH:network-requests:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.593Z 
+LH:status Auditing: 
+Network Round Trip Times
+2026-03-02T12:03:12.593Z 
+LH:network-rtt:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.595Z 
+LH:status Auditing: Server 
+Backend Latencies
+2026-03-02T12:03:12.595Z LH
+:network-server-latency:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.596Z 
+LH:status Auditing: Tasks
+2026-03-02T12:03:12.597Z 
+LH:main-thread-tasks:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.597Z 
+LH:status Auditing: Metrics
+2026-03-02T12:03:12.597Z 
+LH:metrics:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.597Z 
+LH:status Auditing: 
+Resources Summary
+2026-03-02T12:03:12.597Z 
+LH:resource-summary:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.598Z 
+LH:status Auditing: 
+Minimize third-party usage
+2026-03-02T12:03:12.599Z LH
+:third-party-summary:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.602Z 
+LH:status Auditing: Lazy 
+load third-party resources 
+with facades
+2026-03-02T12:03:12.603Z LH
+:third-party-facades:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.605Z 
+LH:status Auditing: 
+Largest Contentful Paint 
+element
+2026-03-02T12:03:12.605Z LH
+:largest-contentful-paint-e
+lement:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.607Z 
+LH:status Auditing: 
+Largest Contentful Paint 
+image was not lazily loaded
+2026-03-02T12:03:12.607Z 
+LH:lcp-lazy-loaded:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.609Z 
+LH:status Auditing: Avoid 
+large layout shifts
+2026-03-02T12:03:12.609Z 
+LH:layout-shifts:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.611Z 
+LH:status Auditing: Avoid 
+long main-thread tasks
+2026-03-02T12:03:12.611Z 
+LH:long-tasks:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.613Z 
+LH:status Auditing: Avoid 
+non-composited animations
+2026-03-02T12:03:12.613Z LH
+:non-composited-animations:
+warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.615Z 
+LH:status Auditing: Image 
+elements have explicit 
+`width` and `height`
+2026-03-02T12:03:12.617Z 
+LH:unsized-images:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.619Z 
+LH:status Auditing: Page 
+has valid source maps
+2026-03-02T12:03:12.620Z 
+LH:valid-source-maps:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.622Z 
+LH:status Auditing: 
+Preload Largest Contentful 
+Paint image
+2026-03-02T12:03:12.622Z LH
+:prioritize-lcp-image:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.624Z 
+LH:status Auditing: Ensure 
+CSP is effective against 
+XSS attacks
+2026-03-02T12:03:12.624Z 
+LH:csp-xss:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.625Z 
+LH:status Auditing: Use a 
+strong HSTS policy
+2026-03-02T12:03:12.626Z 
+LH:has-hsts:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.627Z 
+LH:status Auditing: Ensure 
+proper origin isolation 
+with COOP
+2026-03-02T12:03:12.627Z 
+LH:origin-isolation:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.628Z 
+LH:status Auditing: 
+Mitigate clickjacking with 
+XFO or CSP
+2026-03-02T12:03:12.628Z LH
+:clickjacking-mitigation:wa
+rn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.630Z 
+LH:status Auditing: 
+Mitigate DOM-based XSS 
+with Trusted Types
+2026-03-02T12:03:12.630Z 
+LH:trusted-types-xss:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.631Z 
+LH:status Auditing: Script 
+Treemap Data
+2026-03-02T12:03:12.631Z LH
+:script-treemap-data:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.631Z 
+LH:status Auditing: 
+`[accesskey]` values are 
+unique
+2026-03-02T12:03:12.632Z 
+LH:accesskeys:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.634Z 
+LH:status Auditing: 
+`[aria-*]` attributes 
+match their roles
+2026-03-02T12:03:12.635Z 
+LH:aria-allowed-attr:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.640Z 
+LH:status Auditing: Uses 
+ARIA roles only on 
+compatible elements
+2026-03-02T12:03:12.640Z 
+LH:aria-allowed-role:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.642Z 
+LH:status Auditing: 
+`button`, `link`, and 
+`menuitem` elements have 
+accessible names
+2026-03-02T12:03:12.644Z 
+LH:aria-command-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.646Z 
+LH:status Auditing: ARIA 
+attributes are used as 
+specified for the 
+element's role
+2026-03-02T12:03:12.646Z LH
+:aria-conditional-attr:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.649Z 
+LH:status Auditing: 
+Deprecated ARIA roles were 
+not used
+2026-03-02T12:03:12.650Z LH
+:aria-deprecated-role:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.652Z 
+LH:status Auditing: 
+Elements with 
+`role="dialog"` or 
+`role="alertdialog"` have 
+accessible names.
+2026-03-02T12:03:12.652Z 
+LH:aria-dialog-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.654Z 
+LH:status Auditing: 
+`[aria-hidden="true"]` is 
+not present on the 
+document `<body>`
+2026-03-02T12:03:12.654Z 
+LH:aria-hidden-body:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.656Z 
+LH:status Auditing: 
+`[aria-hidden="true"]` 
+elements do not contain 
+focusable descendents
+2026-03-02T12:03:12.656Z 
+LH:aria-hidden-focus:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.664Z 
+LH:status Auditing: ARIA 
+input fields have 
+accessible names
+2026-03-02T12:03:12.664Z LH
+:aria-input-field-name:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.666Z 
+LH:status Auditing: ARIA 
+`meter` elements have 
+accessible names
+2026-03-02T12:03:12.667Z 
+LH:aria-meter-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.669Z 
+LH:status Auditing: ARIA 
+`progressbar` elements 
+have accessible names
+2026-03-02T12:03:12.669Z LH
+:aria-progressbar-name:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.671Z 
+LH:status Auditing: 
+Elements use only 
+permitted ARIA attributes
+2026-03-02T12:03:12.671Z LH
+:aria-prohibited-attr:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.672Z 
+LH:status Auditing: 
+`[role]`s have all 
+required `[aria-*]` 
+attributes
+2026-03-02T12:03:12.673Z 
+LH:aria-required-attr:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.674Z 
+LH:status Auditing: 
+Elements with an ARIA 
+`[role]` that require 
+children to contain a 
+specific `[role]` have all 
+required children.
+2026-03-02T12:03:12.674Z LH
+:aria-required-children:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.676Z 
+LH:status Auditing: 
+`[role]`s are contained by 
+their required parent 
+element
+2026-03-02T12:03:12.676Z LH
+:aria-required-parent:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.678Z 
+LH:status Auditing: 
+`[role]` values are valid
+2026-03-02T12:03:12.678Z 
+LH:aria-roles:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.680Z 
+LH:status Auditing: 
+Elements with the 
+`role=text` attribute do 
+not have focusable 
+descendents.
+2026-03-02T12:03:12.680Z 
+LH:aria-text:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.682Z 
+LH:status Auditing: ARIA 
+toggle fields have 
+accessible names
+2026-03-02T12:03:12.683Z LH
+:aria-toggle-field-name:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.685Z 
+LH:status Auditing: ARIA 
+`tooltip` elements have 
+accessible names
+2026-03-02T12:03:12.685Z 
+LH:aria-tooltip-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.687Z 
+LH:status Auditing: ARIA 
+`treeitem` elements have 
+accessible names
+2026-03-02T12:03:12.688Z 
+LH:aria-treeitem-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.689Z 
+LH:status Auditing: 
+`[aria-*]` attributes have 
+valid values
+2026-03-02T12:03:12.690Z LH
+:aria-valid-attr-value:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.691Z 
+LH:status Auditing: 
+`[aria-*]` attributes are 
+valid and not misspelled
+2026-03-02T12:03:12.692Z 
+LH:aria-valid-attr:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.693Z 
+LH:status Auditing: 
+Buttons have an accessible 
+name
+2026-03-02T12:03:12.694Z 
+LH:button-name:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.695Z 
+LH:status Auditing: The 
+page contains a heading, 
+skip link, or landmark 
+region
+2026-03-02T12:03:12.696Z 
+LH:bypass:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.697Z 
+LH:status Auditing: 
+Background and foreground 
+colors have a sufficient 
+contrast ratio
+2026-03-02T12:03:12.699Z 
+LH:color-contrast:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.701Z 
+LH:status Auditing: 
+`<dl>`'s contain only 
+properly-ordered `<dt>` 
+and `<dd>` groups, 
+`<script>`, `<template>` 
+or `<div>` elements.
+2026-03-02T12:03:12.701Z 
+LH:definition-list:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.703Z 
+LH:status Auditing: 
+Definition list items are 
+wrapped in `<dl>` elements
+2026-03-02T12:03:12.704Z 
+LH:dlitem:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.706Z 
+LH:status Auditing: 
+Document has a `<title>` 
+element
+2026-03-02T12:03:12.706Z 
+LH:document-title:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.708Z 
+LH:status Auditing: ARIA 
+IDs are unique
+2026-03-02T12:03:12.708Z 
+LH:duplicate-id-aria:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.710Z 
+LH:status Auditing: All 
+heading elements contain 
+content.
+2026-03-02T12:03:12.710Z 
+LH:empty-heading:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.712Z 
+LH:status Auditing: No 
+form fields have multiple 
+labels
+2026-03-02T12:03:12.712Z LH
+:form-field-multiple-labels
+:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.714Z 
+LH:status Auditing: 
+`<frame>` or `<iframe>` 
+elements have a title
+2026-03-02T12:03:12.714Z 
+LH:frame-title:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.716Z 
+LH:status Auditing: 
+Heading elements appear in 
+a sequentially-descending 
+order
+2026-03-02T12:03:12.716Z 
+LH:heading-order:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.718Z 
+LH:status Auditing: 
+`<html>` element has a 
+`[lang]` attribute
+2026-03-02T12:03:12.718Z 
+LH:html-has-lang:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.720Z 
+LH:status Auditing: 
+`<html>` element has a 
+valid value for its 
+`[lang]` attribute
+2026-03-02T12:03:12.720Z 
+LH:html-lang-valid:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.721Z 
+LH:status Auditing: 
+`<html>` element has an 
+`[xml:lang]` attribute 
+with the same base 
+language as the `[lang]` 
+attribute.
+2026-03-02T12:03:12.722Z LH
+:html-xml-lang-mismatch:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.723Z 
+LH:status Auditing: 
+Identical links have the 
+same purpose.
+2026-03-02T12:03:12.724Z LH
+:identical-links-same-purpo
+se:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.725Z 
+LH:status Auditing: Image 
+elements have `[alt]` 
+attributes
+2026-03-02T12:03:12.726Z 
+LH:image-alt:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.727Z 
+LH:status Auditing: Image 
+elements do not have 
+`[alt]` attributes that 
+are redundant text.
+2026-03-02T12:03:12.728Z LH
+:image-redundant-alt:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.730Z 
+LH:status Auditing: Input 
+buttons have discernible 
+text.
+2026-03-02T12:03:12.730Z 
+LH:input-button-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.734Z 
+LH:status Auditing: 
+`<input type="image">` 
+elements have `[alt]` text
+2026-03-02T12:03:12.734Z 
+LH:input-image-alt:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.736Z 
+LH:status Auditing: 
+Elements with visible text 
+labels have matching 
+accessible names.
+2026-03-02T12:03:12.736Z LH
+:label-content-name-mismatc
+h:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.738Z 
+LH:status Auditing: Form 
+elements have associated 
+labels
+2026-03-02T12:03:12.738Z 
+LH:label:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.740Z 
+LH:status Auditing: 
+Document has a main 
+landmark.
+2026-03-02T12:03:12.740Z 
+LH:landmark-one-main:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.742Z 
+LH:status Auditing: Links 
+have a discernible name
+2026-03-02T12:03:12.742Z 
+LH:link-name:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.744Z 
+LH:status Auditing: Links 
+are distinguishable 
+without relying on color.
+2026-03-02T12:03:12.744Z 
+LH:link-in-text-block:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.754Z 
+LH:status Auditing: Lists 
+contain only `<li>` 
+elements and script 
+supporting elements 
+(`<script>` and 
+`<template>`).
+2026-03-02T12:03:12.754Z 
+LH:list:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.756Z 
+LH:status Auditing: List 
+items (`<li>`) are 
+contained within `<ul>`, 
+`<ol>` or `<menu>` parent 
+elements
+2026-03-02T12:03:12.756Z 
+LH:listitem:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.757Z 
+LH:status Auditing: The 
+document does not use 
+`<meta 
+http-equiv="refresh">`
+2026-03-02T12:03:12.758Z 
+LH:meta-refresh:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.759Z 
+LH:status Auditing: 
+`[user-scalable="no"]` is 
+not used in the `<meta 
+name="viewport">` element 
+and the `[maximum-scale]` 
+attribute is not less than 
+5.
+2026-03-02T12:03:12.760Z 
+LH:meta-viewport:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.761Z 
+LH:status Auditing: 
+`<object>` elements have 
+alternate text
+2026-03-02T12:03:12.761Z 
+LH:object-alt:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.763Z 
+LH:status Auditing: Select 
+elements have associated 
+label elements.
+2026-03-02T12:03:12.763Z 
+LH:select-name:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.764Z 
+LH:status Auditing: Skip 
+links are focusable.
+2026-03-02T12:03:12.764Z 
+LH:skip-link:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.766Z 
+LH:status Auditing: No 
+element has a `[tabindex]` 
+value greater than 0
+2026-03-02T12:03:12.766Z 
+LH:tabindex:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.767Z 
+LH:status Auditing: Tables 
+have different content in 
+the summary attribute and 
+`<caption>`.
+2026-03-02T12:03:12.768Z LH
+:table-duplicate-name:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.769Z 
+LH:status Auditing: Tables 
+use `<caption>` instead of 
+cells with the `[colspan]` 
+attribute to indicate a 
+caption.
+2026-03-02T12:03:12.769Z 
+LH:table-fake-caption:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.770Z 
+LH:status Auditing: Touch 
+targets have sufficient 
+size and spacing.
+2026-03-02T12:03:12.770Z 
+LH:target-size:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.771Z 
+LH:status Auditing: `<td>` 
+elements in a large 
+`<table>` have one or more 
+table headers.
+2026-03-02T12:03:12.772Z 
+LH:td-has-header:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.773Z 
+LH:status Auditing: Cells 
+in a `<table>` element 
+that use the `[headers]` 
+attribute refer to table 
+cells within the same 
+table.
+2026-03-02T12:03:12.773Z 
+LH:td-headers-attr:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.775Z 
+LH:status Auditing: `<th>` 
+elements and elements with 
+`[role="columnheader"/"rowh
+eader"]` have data cells 
+they describe.
+2026-03-02T12:03:12.775Z 
+LH:th-has-data-cells:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.777Z 
+LH:status Auditing: 
+`[lang]` attributes have a 
+valid value
+2026-03-02T12:03:12.777Z 
+LH:valid-lang:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.778Z 
+LH:status Auditing: 
+`<video>` elements contain 
+a `<track>` element with 
+`[kind="captions"]`
+2026-03-02T12:03:12.779Z 
+LH:video-caption:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: Custom 
+controls have associated 
+labels
+2026-03-02T12:03:12.780Z LH
+:custom-controls-labels:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: Custom 
+controls have ARIA roles
+2026-03-02T12:03:12.780Z LH
+:custom-controls-roles:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: User 
+focus is not accidentally 
+trapped in a region
+2026-03-02T12:03:12.780Z 
+LH:focus-traps:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: 
+Interactive controls are 
+keyboard focusable
+2026-03-02T12:03:12.780Z 
+LH:focusable-controls:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: 
+Interactive elements 
+indicate their purpose and 
+state
+2026-03-02T12:03:12.780Z LH
+:interactive-element-afford
+ance:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.780Z 
+LH:status Auditing: The 
+page has a logical tab 
+order
+2026-03-02T12:03:12.780Z 
+LH:logical-tab-order:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.781Z 
+LH:status Auditing: The 
+user's focus is directed 
+to new content added to 
+the page
+2026-03-02T12:03:12.781Z 
+LH:managed-focus:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.781Z 
+LH:status Auditing: 
+Offscreen content is 
+hidden from assistive 
+technology
+2026-03-02T12:03:12.781Z LH
+:offscreen-content-hidden:w
+arn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.781Z 
+LH:status Auditing: HTML5 
+landmark elements are used 
+to improve navigation
+2026-03-02T12:03:12.781Z 
+LH:use-landmarks:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.781Z 
+LH:status Auditing: Visual 
+order on the page follows 
+DOM order
+2026-03-02T12:03:12.781Z LH
+:visual-order-follows-dom:w
+arn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.781Z 
+LH:status Auditing: Uses 
+efficient cache policy on 
+static assets
+2026-03-02T12:03:12.782Z LH
+:uses-long-cache-ttl:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.783Z 
+LH:status Auditing: Avoids 
+enormous network payloads
+2026-03-02T12:03:12.784Z 
+LH:total-byte-weight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.785Z 
+LH:status Auditing: Defer 
+offscreen images
+2026-03-02T12:03:12.786Z 
+LH:offscreen-images:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.787Z 
+LH:status Auditing: 
+Eliminate render-blocking 
+resources
+2026-03-02T12:03:12.787Z LH
+:render-blocking-resources:
+warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.788Z 
+LH:status Auditing: Minify 
+CSS
+2026-03-02T12:03:12.788Z 
+LH:unminified-css:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.789Z 
+LH:status Auditing: Minify 
+JavaScript
+2026-03-02T12:03:12.789Z LH
+:unminified-javascript:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.790Z 
+LH:status Auditing: Reduce 
+unused CSS
+2026-03-02T12:03:12.791Z 
+LH:unused-css-rules:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.792Z 
+LH:status Auditing: Reduce 
+unused JavaScript
+2026-03-02T12:03:12.792Z 
+LH:unused-javascript:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.793Z 
+LH:status Auditing: Serve 
+images in next-gen formats
+2026-03-02T12:03:12.793Z LH
+:modern-image-formats:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.794Z 
+LH:status Auditing: 
+Efficiently encode images
+2026-03-02T12:03:12.795Z LH
+:uses-optimized-images:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.796Z 
+LH:status Auditing: Enable 
+text compression
+2026-03-02T12:03:12.796Z LH
+:uses-text-compression:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.797Z 
+LH:status Auditing: 
+Properly size images
+2026-03-02T12:03:12.798Z LH
+:uses-responsive-images:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.799Z 
+LH:status Auditing: Use 
+video formats for animated 
+content
+2026-03-02T12:03:12.807Z LH
+:efficient-animated-content
+:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.808Z 
+LH:status Auditing: Remove 
+duplicate modules in 
+JavaScript bundles
+2026-03-02T12:03:12.809Z LH
+:duplicated-javascript:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.810Z 
+LH:status Auditing: Avoid 
+serving legacy JavaScript 
+to modern browsers
+2026-03-02T12:03:12.811Z 
+LH:legacy-javascript:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.812Z 
+LH:status Auditing: Page 
+has the HTML doctype
+2026-03-02T12:03:12.812Z 
+LH:doctype:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.814Z 
+LH:status Auditing: 
+Properly defines charset
+2026-03-02T12:03:12.814Z 
+LH:charset:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.816Z 
+LH:status Auditing: Avoids 
+an excessive DOM size
+2026-03-02T12:03:12.817Z 
+LH:dom-size:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.818Z 
+LH:status Auditing: Avoids 
+requesting the geolocation 
+permission on page load
+2026-03-02T12:03:12.818Z LH
+:geolocation-on-start:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.820Z 
+LH:status Auditing: No 
+issues in the `Issues` 
+panel in Chrome Devtools
+2026-03-02T12:03:12.820Z 
+LH:inspector-issues:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.821Z 
+LH:status Auditing: Avoids 
+`document.write()`
+2026-03-02T12:03:12.822Z 
+LH:no-document-write:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.823Z 
+LH:status Auditing: 
+Detected JavaScript 
+libraries
+2026-03-02T12:03:12.823Z 
+LH:js-libraries:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.824Z 
+LH:status Auditing: Avoids 
+requesting the 
+notification permission on 
+page load
+2026-03-02T12:03:12.825Z LH
+:notification-on-start:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.826Z 
+LH:status Auditing: Allows 
+users to paste into input 
+fields
+2026-03-02T12:03:12.827Z LH
+:paste-preventing-inputs:wa
+rn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.828Z 
+LH:status Auditing: Use 
+HTTP/2
+2026-03-02T12:03:12.828Z 
+LH:uses-http2:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.829Z 
+LH:status Auditing: Uses 
+passive listeners to 
+improve scrolling 
+performance
+2026-03-02T12:03:12.830Z LH
+:uses-passive-event-listene
+rs:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.831Z 
+LH:status Auditing: 
+Document has a meta 
+description
+2026-03-02T12:03:12.832Z 
+LH:meta-description:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.834Z 
+LH:status Auditing: Page 
+has successful HTTP status 
+code
+2026-03-02T12:03:12.834Z 
+LH:http-status-code:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.835Z 
+LH:status Auditing: 
+Document uses legible font 
+sizes
+2026-03-02T12:03:12.836Z 
+LH:font-size:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.837Z 
+LH:status Auditing: Links 
+have descriptive text
+2026-03-02T12:03:12.837Z 
+LH:link-text:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.839Z 
+LH:status Auditing: Links 
+are crawlable
+2026-03-02T12:03:12.839Z 
+LH:crawlable-anchors:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.840Z 
+LH:status Auditing: Page 
+isnΓÇÖt blocked from 
+indexing
+2026-03-02T12:03:12.841Z 
+LH:is-crawlable:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.842Z 
+LH:status Auditing: 
+robots.txt is valid
+2026-03-02T12:03:12.842Z 
+LH:robots-txt:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.844Z 
+LH:status Auditing: 
+Document has a valid 
+`hreflang`
+2026-03-02T12:03:12.844Z 
+LH:hreflang:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.847Z 
+LH:status Auditing: 
+Document has a valid 
+`rel=canonical`
+2026-03-02T12:03:12.847Z 
+LH:canonical:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.850Z 
+LH:status Auditing: 
+Structured data is valid
+2026-03-02T12:03:12.851Z 
+LH:structured-data:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.852Z 
+LH:status Auditing: Page 
+didn't prevent 
+back/forward cache 
+restoration
+2026-03-02T12:03:12.852Z 
+LH:bf-cache:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.854Z 
+LH:status Auditing: Use 
+efficient cache lifetimes
+2026-03-02T12:03:12.855Z 
+LH:cache-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.856Z 
+LH:status Auditing: Layout 
+shift culprits
+2026-03-02T12:03:12.857Z LH
+:cls-culprits-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.859Z 
+LH:status Auditing: 
+Document request latency
+2026-03-02T12:03:12.859Z LH
+:document-latency-insight:w
+arn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.861Z 
+LH:status Auditing: 
+Optimize DOM size
+2026-03-02T12:03:12.862Z 
+LH:dom-size-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.864Z 
+LH:status Auditing: 
+Duplicated JavaScript
+2026-03-02T12:03:12.864Z LH
+:duplicated-javascript-insi
+ght:warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.866Z 
+LH:status Auditing: Font 
+display
+2026-03-02T12:03:12.866Z LH
+:font-display-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.867Z 
+LH:status Auditing: Forced 
+reflow
+2026-03-02T12:03:12.868Z LH
+:forced-reflow-insight:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.870Z 
+LH:status Auditing: 
+Improve image delivery
+2026-03-02T12:03:12.870Z LH
+:image-delivery-insight:war
+n Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.872Z 
+LH:status Auditing: INP 
+breakdown
+2026-03-02T12:03:12.872Z LH
+:inp-breakdown-insight:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.888Z 
+LH:status Auditing: LCP 
+breakdown
+2026-03-02T12:03:12.888Z LH
+:lcp-breakdown-insight:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.890Z 
+LH:status Auditing: LCP 
+request discovery
+2026-03-02T12:03:12.890Z LH
+:lcp-discovery-insight:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.892Z 
+LH:status Auditing: Legacy 
+JavaScript
+2026-03-02T12:03:12.893Z LH
+:legacy-javascript-insight:
+warn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.895Z 
+LH:status Auditing: Modern 
+HTTP
+2026-03-02T12:03:12.895Z LH
+:modern-http-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.897Z 
+LH:status Auditing: 
+Network dependency tree
+2026-03-02T12:03:12.897Z LH
+:network-dependency-tree-in
+sight:warn Caught 
+exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.898Z 
+LH:status Auditing: Render 
+blocking requests
+2026-03-02T12:03:12.899Z LH
+:render-blocking-insight:wa
+rn Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.901Z 
+LH:status Auditing: 3rd 
+parties
+2026-03-02T12:03:12.901Z LH
+:third-parties-insight:warn
+ Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.903Z 
+LH:status Auditing: 
+Optimize viewport for 
+mobile
+2026-03-02T12:03:12.903Z 
+LH:viewport-insight:warn 
+Caught exception: 
+CHROME_INTERSTITIAL_ERROR
+2026-03-02T12:03:12.904Z 
+LH:status Generating 
+results...
+2026-03-02T12:03:12.972Z 
+LH:Printer json output 
+written to ./lighthouse-mob
+ile-prod.json
+2026-03-02T12:03:12.972Z 
+LH:ChromeLauncher Killing 
+Chrome instance 13596
+Runtime error encountered: 
+Chrome prevented page load 
+with an interstitial. Make 
+sure you are testing the 
+correct URL and that the 
+server is properly 
+responding to all requests.
